@@ -10,7 +10,7 @@
 - 🌱 Currently learning **JavaScript, React & DSA**
 - 🔭 Interested in **Web Development & Open Source**
 - 🤝 Open to collaboration and learning from others
-- 📫 Reach me at: **anupmraj176@gmail.com**
+- 📫 Reach me at: **anupamraj176@gmail.com**
 
 ---
 
