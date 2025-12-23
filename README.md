@@ -22,9 +22,28 @@
 ---
 
 ## 📂 Projects
-- 🔹 **To-Do List** – JavaScript based task manager  
-- 🔹 **Weather App** – Uses public API  
-- 🔹 **Portfolio Website** – HTML, CSS  
+
+### 🎯 To-Do List
+A dynamic task management application built with vanilla JavaScript, featuring local storage persistence and an intuitive user interface for organizing daily tasks.
+
+**Tech Stack:** JavaScript, HTML5, CSS3  
+**Features:** Add/delete tasks, mark as complete, persistent storage
+
+---
+
+### 🌤️ Weather App
+Real-time weather application that fetches current weather data and forecasts using a public weather API, providing users with accurate meteorological information.
+
+**Tech Stack:** JavaScript, REST API, HTML5, CSS3  
+**Features:** Current weather display, location search, responsive design
+
+---
+
+### 💼 Portfolio Website
+A clean and professional personal portfolio showcasing projects, skills, and experience with a modern, responsive design that works seamlessly across all devices.
+
+**Tech Stack:** HTML5, CSS3  
+**Features:** Responsive layout, project showcase, contact section
 
 ---
 
