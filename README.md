@@ -95,6 +95,7 @@ A MERN-based platform enabling farmers to sell products directly to consumers wi
 **🔧 Tech Stack:** `HTML Canvas` `JavaScript` `Tailwind` `Animation API` `npm`
 
 [![npm](https://img.shields.io/npm/dw/my-constellation-bg?style=flat&logo=npm)](https://www.npmjs.com/package/my-constellation-bg)
+&nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Source-181717?style=flat&logo=github)](https://github.com/anupamraj176/my-constellation-bg)
 
 ---
