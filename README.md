@@ -44,16 +44,18 @@ I'm a passionate **Computer Science student** with a love for building things th
 
 ## 📂 Featured Projects
 
-### 🎯 [To-Do List Application](https://github.com/anupamraj176/todo-app)
-> A feature-rich task management app with local storage persistence
+>FarmDirect – Farmer to Consumer Marketplace
+A MERN-based platform enabling farmers to sell products directly to consumers without middlemen
 
 **✨ Key Features:**
-- ✅ Create, update, and delete tasks with ease
-- 🎨 Clean and intuitive user interface
-- 💾 Persistent data storage using localStorage
-- 📱 Fully responsive design for mobile and desktop
+-🧑‍🌾 Direct connection between farmers and buyers
+-🛒 Farmers can list, update, and manage products
+-👥 Users can browse, search, and purchase fresh produce
+-🔐 Secure authentication for farmers and customers
+--📱 Fully responsive UI for mobile and desktop
+⚡ Real-time data handling with scalable backend
 
-**🔧 Tech Stack:** `JavaScript` `HTML5` `CSS3` `Local Storage API`
+**🔧 Tech Stack:** `MongoDB` `Express.js ` `React.js` `Node.js` `REST APIs` `JWT`
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/anupamraj176/todo-app)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify)](https://your-demo-link.netlify.app)
