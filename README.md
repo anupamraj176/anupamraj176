@@ -81,19 +81,21 @@ A MERN-based platform enabling farmers to sell products directly to consumers wi
 
 ---
 
-### 💼 [Personal Portfolio](https://github.com/anupamraj176/portfolio)
-> A modern, responsive portfolio showcasing my journey
+### ✨ Constellation Background – npm Package
+> A lightweight animated constellation background for modern web interfaces
 
 **✨ Key Features:**
-- 🎨 Modern and clean design aesthetic
-- 📱 Fully responsive across all devices
-- 🚀 Smooth animations and transitions
-- 📧 Integrated contact form
+- 🌌 Interactive particle & constellation animation (Grok-style UI)
+- 🖱️ Mouse-move based connections between particles
+- ⚡ High-performance animation using requestAnimationFrame
+- 🎨 Customizable colors, speed, density, and connection distance
+- 📦 Published as a reusable npm package
+- 🧩 Easy plug-and-play integration with any frontend framework
+ 
+**🔧 Tech Stack:** `HTML Canvas` `JavaScript` `Tailwind` `Animation API` `npm`
 
-**🔧 Tech Stack:** `HTML5` `CSS3` `JavaScript`
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/anupamraj176/portfolio)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify)](https://your-demo-link.netlify.app)
+[![npm](https://img.shields.io/npm/dw/my-constellation-bg?style=flat&logo=npm)](https://www.npmjs.com/package/my-constellation-bg)
+[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?style=flat&logo=github)](https://github.com/anupamraj176/my-constellation-bg)
 
 ---
 
