@@ -48,11 +48,11 @@ I'm a passionate **Computer Science student** with a love for building things th
 A MERN-based platform enabling farmers to sell products directly to consumers without middlemen
 
 **✨ Key Features:**
--🧑‍🌾 Direct connection between farmers and buyers
--🛒 Farmers can list, update, and manage products
--👥 Users can browse, search, and purchase fresh produce
--🔐 Secure authentication for farmers and customers
---📱 Fully responsive UI for mobile and desktop
+- 🧑‍🌾 Direct connection between farmers and buyers
+- 🛒 Farmers can list, update, and manage products
+- 👥 Users can browse, search, and purchase fresh produce
+- 🔐 Secure authentication for farmers and customers
+- 📱 Fully responsive UI for mobile and desktop
 ⚡ Real-time data handling with scalable backend
 
 **🔧 Tech Stack:** `MongoDB` `Express.js ` `React.js` `Node.js` `REST APIs` `JWT`
