@@ -44,8 +44,8 @@ I'm a passionate **Computer Science student** with a love for building things th
 
 ## 📂 Featured Projects
 
->FarmDirect – Farmer to Consumer Marketplace
-A MERN-based platform enabling farmers to sell products directly to consumers without middlemen
+### 🌾 FarmDirect – Farmer to Consumer Marketplace
+> A MERN-based platform enabling farmers to sell products directly to consumers without middlemen
 
 **✨ Key Features:**
 - 🧑‍🌾 Direct connection between farmers and buyers
@@ -53,16 +53,16 @@ A MERN-based platform enabling farmers to sell products directly to consumers wi
 - 👥 Users can browse, search, and purchase fresh produce
 - 🔐 Secure authentication for farmers and customers
 - 📱 Fully responsive UI for mobile and desktop
-⚡ Real-time data handling with scalable backend
+- ⚡ Real-time data handling with scalable backend
 
-**🔧 Tech Stack:** `MongoDB` `Express.js ` `React.js` `Node.js` `REST APIs` `JWT`
+**🔧 Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `REST APIs` `JWT`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/anupamraj176/todo-app)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/anupamraj176/FarmDirect)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify)](https://your-demo-link.netlify.app)
 
 ---
 
-### Grid Layout Generator
+### 📐 Grid Layout Generator
 > An interactive tool to visually design CSS grid layouts and instantly generate code
 
 **✨ Key Features:**
@@ -76,12 +76,12 @@ A MERN-based platform enabling farmers to sell products directly to consumers wi
 
 **🔧 Tech Stack:** `JavaScript` `GSAP` `HTML5` `TAILWIND` `Drag & Drop API`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/anupamraj176/weather-app)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/anupamraj176/grid-layout-generator)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify)](https://your-demo-link.netlify.app)
 
 ---
 
-### ✨ Constellation Background – npm Package
+### 🌌 Constellation Background – npm Package
 > A lightweight animated constellation background for modern web interfaces
 
 **✨ Key Features:**
@@ -94,7 +94,7 @@ A MERN-based platform enabling farmers to sell products directly to consumers wi
  
 **🔧 Tech Stack:** `HTML Canvas` `JavaScript` `Tailwind` `Animation API` `npm`
 
-[![npm](https://img.shields.io/npm/dw/my-constellation-bg?style=flat&logo=npm)](https://www.npmjs.com/package/my-constellation-bg)
+[![npm](https://img.shields.io/npm/dw/my-constellation-bg?style=flat&logo=npm&color=CB3837)](https://www.npmjs.com/package/my-constellation-bg)
 &nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Source-181717?style=flat&logo=github)](https://github.com/anupamraj176/my-constellation-bg)
 
@@ -103,23 +103,18 @@ A MERN-based platform enabling farmers to sell products directly to consumers wi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupamraj176&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamraj176&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamraj176&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anupamraj176&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamraj176&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Anupam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anupamraj176&theme=tokyo-night)](https://github.com/anupamraj176)
+<div align="center">
+  
+[![Anupam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anupamraj176&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/anupamraj176)
+
+</div>
 
 ---
 
@@ -142,12 +137,8 @@ A MERN-based platform enabling farmers to sell products directly to consumers wi
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ### 📊 Profile Views
-![Visitor Count](https://profile-counter.glitch.me/anupamraj176/count.svg)
+![](https://komarev.com/ghpvc/?username=anupamraj176&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
 
