@@ -62,16 +62,19 @@ A MERN-based platform enabling farmers to sell products directly to consumers wi
 
 ---
 
-### 🌤️ [Weather Forecast App](https://github.com/anupamraj176/weather-app)
-> Real-time weather information at your fingertips
+### Grid Layout Generator
+> An interactive tool to visually design CSS grid layouts and instantly generate code
 
 **✨ Key Features:**
-- 🌍 Search weather by city name or coordinates
-- 📊 Display current conditions & 5-day forecast
-- 🎨 Dynamic UI that changes with weather conditions
-- 📱 Mobile-first responsive design
+- 🖱️ Drag & resize grid cells to design custom layouts
+- 📐 Dynamic row & column configuration
+- 💻 Auto-generates clean CSS Grid code skeleton
+- 📋 One-click copy of generated HTML & CSS
+- 🎨 Smooth animations & micro-interactions powered by GSAP
+- ⚡ Real-time visual preview while editing
+- 📱 Responsive layout support
 
-**🔧 Tech Stack:** `JavaScript` `Weather API` `HTML5` `CSS3` `Geolocation API`
+**🔧 Tech Stack:** `JavaScript` `GSAP` `HTML5` `TAILWIND` `Drag & Drop API`
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/anupamraj176/weather-app)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify)](https://your-demo-link.netlify.app)
