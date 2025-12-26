@@ -58,7 +58,7 @@ I'm a passionate **Computer Science student** with a love for building things th
 **🔧 Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `REST APIs` `JWT`
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/anupamraj176/FarmDirect)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify)](https://your-demo-link.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify)]([https://your-demo-link.netlify.app](https://sai-8zrg.onrender.com/))
 
 ---
 
