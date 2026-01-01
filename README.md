@@ -1,132 +1,167 @@
-# Hi there, I'm Anupam Raj 👋
+# 👋 Hi there, I'm Anupam Raj
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Aspiring+Full+Stack+Developer;DSA+%26+Problem+Solving+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+%26+Problem+Solving+Expert;Open+Source+Contributor;B.Tech+CSE+Graduate)](https://git.io/typing-svg)
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 🚀 About Me
+## 🎯 About Me
 
-I'm a passionate **Computer Science student** with a love for building things that live on the internet. My journey in tech is driven by curiosity and a desire to solve real-world problems through code.
+I'm a passionate Computer Science student and aspiring full-stack developer with a strong foundation in **Data Structures & Algorithms**, modern web technologies, and cloud computing. I love crafting elegant solutions to complex problems and contributing to the open-source community.
 
-- 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Learning **React, Node.js & Advanced DSA**
-- 💡 Exploring **System Design & Cloud Technologies**
-- 🎯 Goal: Contribute to **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, C++, or DSA**
-- 📧 Reach me: **anupamraj176@gmail.com**
-- ⚡ Fun fact: I debug with console.log() more than I'd like to admit!
+- 🔭 **Currently Building:** Full-stack web applications with React & Node.js
+- 🌱 **Learning:** Advanced System Design, Cloud Architecture & DevOps
+- 💡 **Passionate About:** Clean code, scalable architecture & developer experience
+- 🎯 **Goal:** Build impactful products that solve real-world problems
+- 💬 **Tech Expertise:** JavaScript, React, Node.js, C++, DSA, MongoDB
+- 📧 **Let's Connect:** [anupamraj176@gmail.com](mailto:anupamraj176@gmail.com)
+- ⚡ **Fun Fact:** I'm still a firm believer in the power of `console.log()` for debugging!
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### **Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/DOM_Manipulation-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools & Platforms
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🌾 FarmDirect – Farmer to Consumer Marketplace
-> A MERN-based platform enabling farmers to sell products directly to consumers without middlemen
+### 🌾 **FarmDirect** – Farmer to Consumer Marketplace
 
-**✨ Key Features:**
-- 🧑‍🌾 Direct connection between farmers and buyers
-- 🛒 Farmers can list, update, and manage products
-- 👥 Users can browse, search, and purchase fresh produce
-- 🔐 Secure authentication for farmers and customers
-- 📱 Fully responsive UI for mobile and desktop
-- ⚡ Real-time data handling with scalable backend
+A full-featured MERN platform democratizing agricultural commerce by connecting farmers directly with consumers, eliminating middlemen and ensuring fair pricing.
 
-**🔧 Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `REST APIs` `JWT`
+**✨ Highlights:**
+- Direct farmer-to-consumer marketplace with product management system
+- Secure JWT authentication & role-based access control
+- Real-time inventory tracking & order management
+- Responsive design optimized for mobile & desktop
+- Scalable REST API architecture with MongoDB
+- Deployed and production-ready
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/anupamraj176/SAI)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify)](https://sai-8zrg.onrender.com/)
+**🔧 Tech:** MongoDB • Express.js • React.js • Node.js • JWT • REST APIs
 
----
-
-### 📐 Grid Layout Generator
-> An interactive tool to visually design CSS grid layouts and instantly generate code
-
-**✨ Key Features:**
-- 🖱️ Drag & resize grid cells to design custom layouts
-- 📐 Dynamic row & column configuration
-- 💻 Auto-generates clean CSS Grid code skeleton
-- 📋 One-click copy of generated HTML & CSS
-- 🎨 Smooth animations & micro-interactions powered by GSAP
-- ⚡ Real-time visual preview while editing
-- 📱 Responsive layout support
-
-**🔧 Tech Stack:** `JavaScript` `GSAP` `HTML5` `TAILWIND` `Drag & Drop API`
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/anupamraj176/GridLayoutGenrator)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify)](https://grid-layout-genrator.vercel.app/)
+<div>
+  <a href="https://github.com/anupamraj176/SAI">
+    <img src="https://img.shields.io/badge/View_Source-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://sai-8zrg.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Live Demo"/>
+  </a>
+</div>
 
 ---
 
-### 🌌 Constellation Background – npm Package
-> A lightweight animated constellation background for modern web interfaces
+### 📐 **Grid Layout Generator** – Interactive CSS Grid Designer
 
-**✨ Key Features:**
-- 🌌 Interactive particle & constellation animation (Grok-style UI)
-- 🖱️ Mouse-move based connections between particles
-- ⚡ High-performance animation using requestAnimationFrame
-- 🎨 Customizable colors, speed, density, and connection distance
-- 📦 Published as a reusable npm package
-- 🧩 Easy plug-and-play integration with any frontend framework
- 
-**🔧 Tech Stack:** `HTML Canvas` `JavaScript` `Tailwind` `Animation API` `npm`
+An intuitive visual tool that lets developers design complex CSS Grid layouts through an interactive interface and generate production-ready code instantly.
 
-[![npm](https://img.shields.io/npm/dw/my-constellation-bg?style=flat&logo=npm&color=CB3837)](https://www.npmjs.com/package/my-constellation-bg)
-&nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?style=flat&logo=github)](https://github.com/anupamraj176/my-constellation-bg)
+**✨ Highlights:**
+- Drag-and-drop grid cell manipulation
+- Dynamic row & column configuration
+- Auto-generate clean, semantic HTML & CSS
+- One-click copy functionality
+- Smooth GSAP-powered animations
+- Real-time visual feedback & responsive support
+
+**🔧 Tech:** JavaScript • GSAP • HTML5 • Tailwind CSS • Drag & Drop API
+
+<div>
+  <a href="https://github.com/anupamraj176/GridLayoutGenrator">
+    <img src="https://img.shields.io/badge/View_Source-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://grid-layout-genrator.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+</div>
+
+---
+
+### 🌌 **Constellation Background** – Animated npm Package
+
+A lightweight, high-performance animated constellation background component for modern web interfaces. Published on npm with thousands of downloads.
+
+**✨ Highlights:**
+- Interactive particle animation with mouse tracking
+- Grok-style constellation connections
+- Highly optimized using requestAnimationFrame
+- Fully customizable (colors, speed, density, distance)
+- Zero-dependency, framework-agnostic
+- Easy plug-and-play integration
+
+**🔧 Tech:** HTML Canvas • JavaScript • Animation APIs • npm
+
+<div>
+  <a href="https://www.npmjs.com/package/my-constellation-bg">
+    <img src="https://img.shields.io/npm/dw/my-constellation-bg?style=flat&logo=npm&logoColor=white" alt="npm Downloads"/>
+  </a>
+  <a href="https://github.com/anupamraj176/my-constellation-bg">
+    <img src="https://img.shields.io/badge/GitHub-Source-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamraj176&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anupamraj176&theme=tokyonight&hide_border=true)
+
 </div>
-
----
-
-## 📈 Contribution Graph
 
 <div align="center">
-  
-[![Anupam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anupamraj176&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/anupamraj176)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anupamraj176&theme=tokyo-night&hide_border=true&custom_title=📈+Contribution+Activity)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-raj-88833134b/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/secret_johnwick)
+[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/secret_johnwick)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anupamraj176)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anupamraj176@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anupam176-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anupamraj176@gmail.com)
+
+</div>
+
+---
+
+## 💡 Quick Stats
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=anupamraj176&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -134,16 +169,13 @@ I'm a passionate **Computer Science student** with a love for building things th
 
 <div align="center">
   
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 📊 Profile Views
-![](https://komarev.com/ghpvc/?username=anupamraj176&color=blueviolet&style=flat-square&label=Profile+Views)
-
----
+### 💭 Random Dev Wisdom
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 **"First, solve the problem. Then, write the code."** – John Johnson
 
-⭐️ **If you find my work interesting, consider giving a star to my repositories!**
+### 🙏 Support
+
+If you find my work valuable, consider giving a ⭐️ to my repositories — it means a lot!
 
 </div>
