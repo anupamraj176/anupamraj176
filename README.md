@@ -73,9 +73,8 @@ Direct farmer-to-consumer marketplace with comprehensive product management • 
 
 <div align="center">
   
-  <a href="https://sai-8zrg.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-46E3B7?style=flat-square&logo=render&logoColor=white" /></a>
+  <a href="https://github.com/anupamraj176/SAI" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-46E3B7?style=flat-square&logo=render&logoColor=white" /></a>
   <a href="https://github.com/anupamraj176/farmdirect" target="_blank"><img src="https://img.shields.io/badge/Repository-100000?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="YOUR_CASE_STUDY_LINK" target="_blank"><img src="https://img.shields.io/badge/Case%20Study-FF6B6B?style=flat-square&logo=hashnode&logoColor=white" /></a>
 
 </div>
 
