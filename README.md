@@ -75,7 +75,7 @@ Direct farmer-to-consumer marketplace with comprehensive product management • 
   
   <a href="YOUR_FARMDIRECT_LIVE_LINK" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black" /></a>
   <a href="https://github.com/anupamraj176/farmdirect" target="_blank"><img src="https://img.shields.io/badge/Repository-100000?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="YOUR_PROJECT_BLOG_LINK" target="_blank"><img src="https://img.shields.io/badge/Case%20Study-FF6B6B?style=flat-square&logo=notion&logoColor=white" /></a>
+  <a href="https://sai-8zrg.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Case%20Study-FF6B6B?style=flat-square&logo=notion&logoColor=white" /></a>
 
 </div>
 
