@@ -73,7 +73,9 @@ Direct farmer-to-consumer marketplace with comprehensive product management • 
 
 <div align="center">
   
-  [🌐 Live Demo](YOUR_FARMDIRECT_LIVE_LINK) • [📂 Repository](https://github.com/anupamraj176/farmdirect) • [📋 Details](YOUR_PROJECT_BLOG_LINK)
+  <a href="YOUR_FARMDIRECT_LIVE_LINK" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black" /></a>
+  <a href="https://github.com/anupamraj176/farmdirect" target="_blank"><img src="https://img.shields.io/badge/Repository-100000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="YOUR_PROJECT_BLOG_LINK" target="_blank"><img src="https://img.shields.io/badge/Case%20Study-FF6B6B?style=flat-square&logo=notion&logoColor=white" /></a>
 
 </div>
 
@@ -93,7 +95,9 @@ Drag-and-drop grid cell manipulation with real-time visual feedback • Dynamic 
 
 <div align="center">
   
-  [🌐 Live Demo](YOUR_GRID_LIVE_LINK) • [📂 Repository](https://github.com/anupamraj176/grid-layout-generator) • [📋 Details](YOUR_PROJECT_BLOG_LINK)
+  <a href="YOUR_GRID_LIVE_LINK" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black" /></a>
+  <a href="https://github.com/anupamraj176/grid-layout-generator" target="_blank"><img src="https://img.shields.io/badge/Repository-100000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="YOUR_PROJECT_BLOG_LINK" target="_blank"><img src="https://img.shields.io/badge/Case%20Study-FF6B6B?style=flat-square&logo=notion&logoColor=white" /></a>
 
 </div>
 
@@ -113,7 +117,9 @@ Interactive particle animation with intelligent mouse tracking • Grok-style co
 
 <div align="center">
   
-  [📦 npm Package](https://www.npmjs.com/package/constellation-background) • [🌐 Live Demo](YOUR_CONSTELLATION_DEMO_LINK) • [📂 Repository](https://github.com/anupamraj176/constellation-background)
+  <a href="https://www.npmjs.com/package/constellation-background" target="_blank"><img src="https://img.shields.io/badge/NPM%20Package-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
+  <a href="YOUR_CONSTELLATION_DEMO_LINK" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black" /></a>
+  <a href="https://github.com/anupamraj176/constellation-background" target="_blank"><img src="https://img.shields.io/badge/Repository-100000?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
