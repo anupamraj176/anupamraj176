@@ -71,6 +71,12 @@ Direct farmer-to-consumer marketplace with comprehensive product management • 
 
 **Status:** Live & Operational | **Impact:** Empowering local farmers
 
+<div align="center">
+  
+  [🌐 Live Demo](YOUR_FARMDIRECT_LIVE_LINK) • [📂 Repository](https://github.com/anupamraj176/farmdirect) • [📋 Details](YOUR_PROJECT_BLOG_LINK)
+
+</div>
+
 ---
 
 ### 📐 Grid Layout Generator – Interactive CSS Grid Designer
@@ -85,6 +91,12 @@ Drag-and-drop grid cell manipulation with real-time visual feedback • Dynamic 
 
 **Status:** Live | **Use Case:** Accelerate CSS Grid workflow
 
+<div align="center">
+  
+  [🌐 Live Demo](YOUR_GRID_LIVE_LINK) • [📂 Repository](https://github.com/anupamraj176/grid-layout-generator) • [📋 Details](YOUR_PROJECT_BLOG_LINK)
+
+</div>
+
 ---
 
 ### 🌌 Constellation Background – Animated npm Package
@@ -98,6 +110,12 @@ Interactive particle animation with intelligent mouse tracking • Grok-style co
 **Tech Stack:** HTML Canvas • JavaScript • Animation APIs • npm
 
 **Status:** Published & Active | **Downloads:** 1000+
+
+<div align="center">
+  
+  [📦 npm Package](https://www.npmjs.com/package/constellation-background) • [🌐 Live Demo](YOUR_CONSTELLATION_DEMO_LINK) • [📂 Repository](https://github.com/anupamraj176/constellation-background)
+
+</div>
 
 ---
 
