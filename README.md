@@ -34,13 +34,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anupamraj176&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=anupamraj176&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anupamraj176&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=anupamraj176&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamraj176&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=anupamraj176&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamraj176&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=anupamraj176&custom_title=Contribution%20Graph&bg_color=0D1117&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -48,7 +48,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anupamraj176&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anupamraj176&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -65,11 +65,11 @@
 
 <div align="center">
 <a href="https://github.com/anupamraj176/PROJECT_1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anupamraj176&repo=PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anupamraj176&repo=PROJECT_1&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/anupamraj176/PROJECT_2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anupamraj176&repo=PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anupamraj176&repo=PROJECT_2&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -80,9 +80,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://YOUR_PORTFOLIO_URL.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anupamraj176)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anupamraj176)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://anupamraj176.github.io)
 
 </div>
 
@@ -95,6 +95,16 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=anupamraj176&label=Profile%20Views&color=F85D7F&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/anupamraj176?label=Followers&style=for-the-badge&color=F85D7F)
 ![GitHub Stars](https://img.shields.io/github/stars/anupamraj176?label=Stars&style=for-the-badge&color=F8D866)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
