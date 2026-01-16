@@ -1,189 +1,135 @@
-# 👋 Hey, I'm Anupam Raj
+<div align="center">
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to My Digital Universe
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Building+the+Future+%E2%9A%A1)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills & Technologies
+
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust,solidity&theme=dark" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,sass,redux&theme=dark" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql,prisma,nestjs&theme=dark" />
+
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase,aws,gcp&theme=dark" />
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,terraform,linux,vscode&theme=dark" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 💼 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🌐 Connect With Me
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+🚀;DSA+%26+Problem+Solving+Expert+💡;Open+Source+Contributor+🌟;Building+Scalable+Solutions+⚡)](https://git.io/typing-svg)
-
-<p>
-  <a href="https://anupam176-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:anupamraj176@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anupam-raj-88833134b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/anupamraj176" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://x.com/secret_johnwick" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=anupamraj176&color=00D9FF&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@YOUR_YOUTUBE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://YOUR_PORTFOLIO.com)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🎯 About Me
+## 📈 Profile Stats
 
-I'm a **B.Tech Computer Science** student passionate about building robust, scalable applications that solve real-world problems. I specialize in full-stack development with a deep foundation in Data Structures & Algorithms, and I'm committed to writing clean, maintainable code and contributing to the open-source ecosystem.
+<div align="center">
 
-- 🔭 **Currently Building:** Production-grade full-stack applications with React & Node.js
-- 🌱 **Currently Learning:** Advanced System Design, Microservices Architecture & Cloud Infrastructure
-- 💡 **Passionate About:** Clean code architecture, performance optimization & developer experience
-- 🎯 **Vision:** Create impactful products that make a difference
-- 📍 **Based In:** Patna, Bihar, India
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=F85D7F&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=F85D7F)
+![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=F8D866)
 
----
+</div>
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### **Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## 💭 Random Dev Quote
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+<div align="center">
 
-### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+</div>
 
----
-
-## 🚀 Flagship Projects
-
-### 🌾 FarmDirect – Farmer to Consumer Marketplace
-**Democratizing agriculture through direct commerce**
-
-A full-featured MERN platform that eliminates middlemen and ensures fair pricing by connecting farmers directly with consumers.
-
-**Key Features:**
-Direct farmer-to-consumer marketplace with comprehensive product management • Secure JWT-based authentication with role-based access control • Real-time inventory tracking and intelligent order management • Fully responsive design optimized for mobile and desktop experiences • Scalable REST API architecture with MongoDB persistence • Production-ready and deployed
-
-**Tech Stack:** MongoDB • Express.js • React.js • Node.js • JWT Authentication • REST APIs • Tailwind CSS
-
-**Status:** Live & Operational | **Impact:** Empowering local farmers
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
   
-  <a href="https://github.com/anupamraj176/SAI" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-46E3B7?style=flat-square&logo=render&logoColor=white" /></a>
-  <a href="https://github.com/anupamraj176/farmdirect" target="_blank"><img src="https://img.shields.io/badge/Repository-100000?style=flat-square&logo=github&logoColor=white" /></a>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Thanks for visiting! Let's build something amazing together! 
 
 </div>
 
----
-
-### 📐 Grid Layout Generator – Interactive CSS Grid Designer
-**Visual design tool for developers**
-
-An intuitive, interactive tool that empowers developers to design complex CSS Grid layouts visually and generate production-ready code instantly.
-
-**Key Features:**
-Drag-and-drop grid cell manipulation with real-time visual feedback • Dynamic row and column configuration • Auto-generate clean, semantic HTML & CSS code • One-click copy-to-clipboard functionality • Smooth GSAP-powered animations and interactions • Full responsive support and cross-browser compatibility
-
-**Tech Stack:** JavaScript • GSAP • HTML5 • Tailwind CSS • Drag & Drop API
-
-**Status:** Live | **Use Case:** Accelerate CSS Grid workflow
-
-<div align="center">
-  
-  <a href="YOUR_GRID_LIVE_LINK" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black" /></a>
-  <a href="https://github.com/anupamraj176/grid-layout-generator" target="_blank"><img src="https://img.shields.io/badge/Repository-100000?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="YOUR_PROJECT_BLOG_LINK" target="_blank"><img src="https://img.shields.io/badge/Article-FF6B6B?style=flat-square&logo=hashnode&logoColor=white" /></a>
-
-</div>
-
----
-
-### 🌌 Constellation Background – Animated npm Package
-**High-performance animated background component**
-
-A lightweight, zero-dependency animated constellation component with thousands of downloads on npm, perfect for modern web interfaces.
-
-**Key Features:**
-Interactive particle animation with intelligent mouse tracking • Grok-style constellation connections • Highly optimized using requestAnimationFrame for 60fps performance • Fully customizable (colors, speed, density, connection distance) • Framework-agnostic with zero dependencies • Plug-and-play integration in seconds
-
-**Tech Stack:** HTML Canvas • JavaScript • Animation APIs • npm
-
-**Status:** Published & Active | **Downloads:** 1000+
-
-<div align="center">
-  
-  <a href="https://www.npmjs.com/package/constellation-background" target="_blank"><img src="https://img.shields.io/badge/NPM%20Package-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
-  <a href="YOUR_CONSTELLATION_DEMO_LINK" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black" /></a>
-  <a href="https://github.com/anupamraj176/constellation-background" target="_blank"><img src="https://img.shields.io/badge/Repository-100000?style=flat-square&logo=github&logoColor=white" /></a>
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anupamraj176&theme=tokyonight&hide_border=true)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anupamraj176&theme=tokyo-night&hide_border=true&custom_title=📈+Contribution+Activity)
-
-</div>
-
----
-
-## 💼 What I'm Working On
-
-- 🔧 Building scalable REST APIs with advanced error handling and validation
-- 🎨 Crafting pixel-perfect, accessible UI components
-- 📚 Mastering system design principles and architectural patterns
-- 🌐 Contributing to meaningful open-source projects
-- 🧠 Solving complex algorithmic problems on LeetCode/Codeforces
-
----
-
-## 🎓 Education & Growth
-
-**B.Tech in Computer Science Engineering** – Dedicated to continuous learning and skill development
-
-Currently exploring: Microservices, containerization (Docker/Kubernetes), advanced database optimization, cloud-native development
-
----
-
-## 💡 Philosophy & Approach
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-I believe in:
-- Writing code that's readable, maintainable, and elegant
-- Building scalable solutions from the ground up
-- Contributing back to the community that helped me grow
-- Never stopping learning and always embracing new challenges
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-I'm always excited to connect with fellow developers, contribute to interesting projects, and discuss technology, architecture, and innovation. Whether it's code reviews, open-source contributions, or just tech discussions—let's chat!
-
-<div align="center">
-
-[📧 Email](mailto:anupamraj176@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/anupam-raj-88833134b/) • [🐙 GitHub](https://github.com/anupamraj176) • [🌐 Portfolio](https://anupam176-portfolio.vercel.app/) • [𝕏 Twitter](https://x.com/secret_johnwick)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐️ Support My Work
-
-If you find my projects useful, consider giving them a star — it motivates me to keep building amazing things!
-
-**Thanks for visiting my profile! Happy coding! 🚀**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
