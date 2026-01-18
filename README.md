@@ -78,62 +78,68 @@
 
 <table>
 <tr>
+
+<!-- Project 1: FarmerHub -->
 <td width="33%" align="center" valign="top">
 
-<a href="https://github.com/anupamraj176/ecommerce-nebula">
-<img src="https://via.placeholder.com/360x200/161b22/f85d7f?text=E-Commerce+Nebula" width="100%" style="border-radius:10px"/><br><br>
+<a href="https://github.com/anupamraj176/SAI">
+<img src="https://via.placeholder.com/360x200/1F3326/CFF56E?text=FarmerHub" width="100%" style="border-radius:10px"/><br><br>
 </a>
 
-**E-Commerce Nebula**  
-Full-featured online store with admin panel & payments
+<strong>🌾 FarmerHub</strong><br/>
+Farm-to-consumer marketplace connecting farmers directly with buyers
 
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
-<a href="https://github.com/anupamraj176/ecommerce-nebula"><kbd>🔗 Source</kbd></a> • <a href="https://nebula-shop.vercel.app"><kbd>🌐 Demo</kbd></a>
+<a href="https://github.com/anupamraj176/SAI"><kbd>🔗 Source</kbd></a>
 
 </td>
 
+<!-- Project 2: Realistic Starfield -->
 <td width="33%" align="center" valign="top">
 
-<a href="https://github.com/anupamraj176/ai-smart-notes">
-<img src="https://via.placeholder.com/360x200/161b22/f8d866?text=AI+Smart+Notes" width="100%" style="border-radius:10px"/><br><br>
+<a href="https://github.com/anupamraj176/my-constellation-bg">
+<img src="https://via.placeholder.com/360x200/000000/FFFFFF?text=Realistic+Starfield" width="100%" style="border-radius:10px"/><br><br>
 </a>
 
-**AI Smart Notes**  
-Voice/text notes • AI summarization • semantic search
+<strong>🌌 Realistic Starfield</strong><br/>
+High-performance animated starfield background (NPM package)
 
 <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-FF6B6B?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Canvas-000000?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
 </p>
 
-<a href="https://github.com/anupamraj176/ai-smart-notes"><kbd>🔗 Source</kbd></a> • <a href="https://ai-notes.anupam.dev"><kbd>🌐 Demo</kbd></a>
+<a href="https://github.com/anupamraj176/my-constellation-bg"><kbd>🔗 Source</kbd></a>
 
 </td>
 
+<!-- Project 3: Grid Layout Generator -->
 <td width="33%" align="center" valign="top">
 
-<a href="https://github.com/anupamraj176/devconnect">
-<img src="https://via.placeholder.com/360x200/161b22/a9fef7?text=DevConnect" width="100%" style="border-radius:10px"/><br><br>
+<a href="https://github.com/anupamraj176/GridLayoutGenrator">
+<img src="https://via.placeholder.com/360x200/0F172A/38BDF8?text=Grid+Layout+Generator" width="100%" style="border-radius:10px"/><br><br>
 </a>
 
-**DevConnect**  
-Developer social platform • Live collaboration
+<strong>🎨 Grid Layout Generator</strong><br/>
+Interactive CSS Grid builder with drag-and-drop & export
 
 <p>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
 </p>
 
-<a href="https://github.com/anupamraj176/devconnect"><kbd>🔗 Source</kbd></a> • <a href="https://devconnect.vercel.app"><kbd>🌐 Demo</kbd></a>
+<a href="https://github.com/anupamraj176/GridLayoutGenrator"><kbd>🔗 Source</kbd></a> • 
+<a href="https://grid-layout-genrator.vercel.app/"><kbd>🌐 Demo</kbd></a>
 
 </td>
+
 </tr>
 </table>
 
