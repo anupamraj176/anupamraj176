@@ -71,7 +71,6 @@
 
 <img src="https://raw.githubusercontent.com/anupamraj176/anupamraj176/output/github-snake-dark.svg" alt="snake eating my contributions" width="100%" />
 
-<!-- Projects -->
 <h2 id="projects">🚀 Featured Projects</h2>
 
 <div align="center">
@@ -99,7 +98,7 @@ Farm-to-consumer marketplace connecting farmers directly with buyers
 
 </td>
 
-<!-- Project 2: Realistic Starfield -->
+<!-- Project 2: Realistic Starfield (NPM Package) -->
 <td width="33%" align="center" valign="top">
 
 <a href="https://github.com/anupamraj176/my-constellation-bg">
@@ -107,7 +106,7 @@ Farm-to-consumer marketplace connecting farmers directly with buyers
 </a>
 
 <strong>🌌 Realistic Starfield</strong><br/>
-High-performance animated starfield background (NPM package)
+High-performance animated starfield background (published NPM package)
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -115,7 +114,8 @@ High-performance animated starfield background (NPM package)
 <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
 </p>
 
-<a href="https://github.com/anupamraj176/my-constellation-bg"><kbd>🔗 Source</kbd></a>
+<a href="https://github.com/anupamraj176/my-constellation-bg"><kbd>🔗 Source</kbd></a> •
+<a href="https://www.npmjs.com/package/my-constellation-bg"><kbd>📦 NPM</kbd></a>
 
 </td>
 
@@ -127,7 +127,7 @@ High-performance animated starfield background (NPM package)
 </a>
 
 <strong>🎨 Grid Layout Generator</strong><br/>
-Interactive CSS Grid builder with drag-and-drop & export
+Interactive CSS Grid builder with drag-and-drop & one-click export
 
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -135,13 +135,15 @@ Interactive CSS Grid builder with drag-and-drop & export
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
 </p>
 
-<a href="https://github.com/anupamraj176/GridLayoutGenrator"><kbd>🔗 Source</kbd></a> • 
+<a href="https://github.com/anupamraj176/GridLayoutGenrator"><kbd>🔗 Source</kbd></a> •
 <a href="https://grid-layout-genrator.vercel.app/"><kbd>🌐 Demo</kbd></a>
 
 </td>
 
 </tr>
 </table>
+
+</div>
 
 </div>
 
