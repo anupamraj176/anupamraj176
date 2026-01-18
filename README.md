@@ -78,6 +78,13 @@
 <table>
 <tr>
 
+<h2 id="projects">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
 <!-- Project 1: FarmerHub -->
 <td width="33%" align="center" valign="top">
 
@@ -94,11 +101,12 @@ Farm-to-consumer marketplace connecting farmers directly with buyers
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
-<a href="https://github.com/anupamraj176/SAI"><kbd>🔗 Source</kbd></a>
+<a href="https://github.com/anupamraj176/SAI"><kbd>🔗 Source</kbd></a> •
+<a href="https://github.com/anupamraj176/SAI#-getting-started"><kbd>🌐 Demo</kbd></a>
 
 </td>
 
-<!-- Project 2: Realistic Starfield (NPM Package) -->
+<!-- Project 2: Realistic Starfield -->
 <td width="33%" align="center" valign="top">
 
 <a href="https://github.com/anupamraj176/my-constellation-bg">
@@ -145,7 +153,6 @@ Interactive CSS Grid builder with drag-and-drop & one-click export
 
 </div>
 
-</div>
 
 <!-- Connect -->
 <h2 id="connect">🌐 Connect with me</h2>
