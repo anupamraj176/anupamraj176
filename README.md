@@ -37,19 +37,19 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust,solidity&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" /><br><br>
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,sass,redux&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,sass&theme=dark" /><br><br>
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql,prisma,nestjs&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs&theme=dark" /><br><br>
 
 ### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase,aws,gcp&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,aws&theme=dark" /><br><br>
 
 ### Tools & Others
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,terraform,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,dockerjenkins,linux,vscode&theme=dark" />
 
 </div>
 
