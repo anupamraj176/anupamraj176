@@ -69,7 +69,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamraj176&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" />
 </div>
 
-<img src="https://raw.githubusercontent.com/anupamraj176/anupamraj176/output/github-snake-dark.svg" alt="snake eating my contributions" width="100%" />
 
 <h2 id="projects">🚀 Featured Projects</h2>
 
