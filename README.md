@@ -49,7 +49,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,aws&theme=dark" /><br><br>
 
 ### Tools & Others
-<img src="https://skillicons.dev/icons?i=git,github,dockerjenkins,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,linux,vscode&theme=dark" />
 
 </div>
 
