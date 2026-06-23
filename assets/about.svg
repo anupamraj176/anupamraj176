@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="100%" height="100%">
+  <defs>
+    <!-- Card Shadow -->
+    <filter id="card-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.5" />
+    </filter>
+
+    <!-- Neon Glow for Window Border -->
+    <filter id="neon-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&amp;display=swap');
+
+    .code-font {
+      font-family: 'Fira Code', monospace;
+      font-size: 14px;
+      font-weight: 500;
+    }
+
+    /* Syntax Highlighting Colors (Dracula Theme inspired) */
+    .brac { fill: #8be9fd; } /* Cyan Brackets */
+    .key { fill: #ff79c6; }  /* Pink Keys */
+    .punc { fill: #f8f8f2; }  /* White Colon/Comma */
+    .str { fill: #f1fa8c; }   /* Yellow Strings */
+    .comment { fill: #6272a4; font-style: italic; } /* Muted Blue Comments */
+    .number { fill: #bd93f9; } /* Purple Numbers/Booleans */
+
+    /* Typing/Reveal Animation */
+    .line {
+      opacity: 0;
+      animation: reveal-line 0.4s forwards;
+    }
+
+    @keyframes reveal-line {
+      to {
+        opacity: 1;
+      }
+    }
+
+    /* Blinking Cursor Animation */
+    .cursor {
+      animation: cursor-blink 1s infinite;
+      fill: #50fa7b;
+    }
+
+    @keyframes cursor-blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+
+  <!-- Outer Window with Neon Border -->
+  <rect x="10" y="10" width="780" height="300" rx="10" fill="#282a36" stroke="#44475a" stroke-width="1.5" filter="url(#card-shadow)" />
+  <rect x="9" y="9" width="782" height="302" rx="11" fill="none" stroke="#ff79c6" stroke-width="1" opacity="0.3" filter="url(#neon-glow)" />
+
+  <!-- macOS Window Header Bar -->
+  <path d="M10 10 h780 v28 a0 0 0 0 1 0 0 v0 a8 8 0 0 1 -8 8 h-764 a8 8 0 0 1 -8 -8 v0 a0 0 0 0 1 0 0 Z" fill="#1e1f29" />
+  
+  <!-- Window Control Buttons (Red, Yellow, Green) -->
+  <circle cx="30" cy="24" r="6" fill="#ff5f56" />
+  <circle cx="50" cy="24" r="6" fill="#ffbd2e" />
+  <circle cx="70" cy="24" r="6" fill="#27c93f" />
+
+  <!-- Window Title -->
+  <text x="400" y="29" class="code-font" fill="#6272a4" text-anchor="middle" font-size="12">anupamraj176 ~ profile.json</text>
+
+  <!-- Code Body -->
+  <g transform="translate(30, 45)" class="code-font">
+    
+    <!-- Line 1: Bracket -->
+    <g class="line" style="animation-delay: 0.1s;">
+      <text x="10" y="25"><tspan class="brac">{</tspan></text>
+    </g>
+
+    <!-- Line 2: Name -->
+    <g class="line" style="animation-delay: 0.5s;">
+      <text x="30" y="53">
+        <tspan class="key">"name"</tspan><tspan class="punc">:</tspan> <tspan class="str">"Anupam Raj"</tspan><tspan class="punc">,</tspan>
+      </text>
+    </g>
+
+    <!-- Line 3: Role -->
+    <g class="line" style="animation-delay: 0.9s;">
+      <text x="30" y="81">
+        <tspan class="key">"role"</tspan><tspan class="punc">:</tspan> <tspan class="str">"B.Tech CSE Student"</tspan><tspan class="punc">,</tspan>
+      </text>
+    </g>
+
+    <!-- Line 4: Focus -->
+    <g class="line" style="animation-delay: 1.3s;">
+      <text x="30" y="109">
+        <tspan class="key">"focus"</tspan><tspan class="punc">:</tspan> <tspan class="str">"Full-Stack Web Dev &amp; DSA"</tspan><tspan class="punc">,</tspan>
+      </text>
+    </g>
+
+    <!-- Line 5: Learning -->
+    <g class="line" style="animation-delay: 1.7s;">
+      <text x="30" y="137">
+        <tspan class="key">"learning"</tspan><tspan class="punc">:</tspan> <tspan class="brac">[</tspan><tspan class="str">"JavaScript"</tspan><tspan class="punc">,</tspan> <tspan class="str">"React.js"</tspan><tspan class="punc">,</tspan> <tspan class="str">"C++"</tspan><tspan class="brac">]</tspan><tspan class="punc">,</tspan>
+      </text>
+    </g>
+
+    <!-- Line 6: Currently Working On -->
+    <g class="line" style="animation-delay: 2.1s;">
+      <text x="30" y="165">
+        <tspan class="key">"currently"</tspan><tspan class="punc">:</tspan> <tspan class="str">"Solving problems on DSA &amp; building modern MERN apps"</tspan><tspan class="punc">,</tspan>
+      </text>
+    </g>
+
+    <!-- Line 7: Goals -->
+    <g class="line" style="animation-delay: 2.5s;">
+      <text x="30" y="193">
+        <tspan class="key">"goals"</tspan><tspan class="punc">:</tspan> <tspan class="brac">[</tspan><tspan class="str">"Master Frontend Development"</tspan><tspan class="punc">,</tspan> <tspan class="str">"Contribute to Open Source"</tspan><tspan class="brac">]</tspan>
+      </text>
+    </g>
+
+    <!-- Line 8: Closing Bracket and Blinking Cursor -->
+    <g class="line" style="animation-delay: 2.9s;">
+      <text x="10" y="221">
+        <tspan class="brac">}</tspan>
+      </text>
+      <!-- Blinking block cursor -->
+      <rect x="25" y="208" width="8" height="15" class="cursor" />
+    </g>
+
+    <!-- Console Output Comment -->
+    <g class="line" style="animation-delay: 3.5s;">
+      <text x="10" y="250" class="comment">// Profile loaded successfully. Keep hacking!</text>
+    </g>
+  </g>
+</svg>

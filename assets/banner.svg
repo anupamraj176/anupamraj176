@@ -1,0 +1,264 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#07050f" />
+      <stop offset="50%" stop-color="#140f2b" />
+      <stop offset="100%" stop-color="#0a0718" />
+    </linearGradient>
+
+    <!-- Retro Sun Gradient -->
+    <linearGradient id="sun-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffe600" />
+      <stop offset="50%" stop-color="#ff007f" />
+      <stop offset="100%" stop-color="#7000ff" />
+    </linearGradient>
+
+    <!-- Grid Fade Mask -->
+    <linearGradient id="grid-fade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#000" stop-opacity="0" />
+      <stop offset="20%" stop-color="#000" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#000" stop-opacity="1" />
+    </linearGradient>
+
+    <mask id="grid-mask">
+      <rect x="0" y="140" width="800" height="160" fill="url(#grid-fade)" />
+    </mask>
+
+    <!-- Neon Glow Filters -->
+    <filter id="glow-cyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="glow-magenta" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&amp;family=Fira+Code:wght@400;500;700&amp;display=swap');
+
+    /* General text styles */
+    .title {
+      font-family: 'Orbitron', sans-serif;
+      font-weight: 900;
+      font-size: 42px;
+      fill: #ffffff;
+      text-anchor: middle;
+      filter: url(#glow-cyan);
+      animation: title-flicker 4s infinite alternate;
+    }
+
+    .subtitle {
+      font-family: 'Fira Code', monospace;
+      font-weight: 500;
+      font-size: 16px;
+      fill: #00f2fe;
+      text-anchor: middle;
+      letter-spacing: 4px;
+      filter: url(#glow-magenta);
+      animation: subtitle-pulse 3s infinite ease-in-out;
+    }
+
+    .tagline {
+      font-family: 'Fira Code', monospace;
+      font-size: 12px;
+      fill: #8c82b3;
+      text-anchor: middle;
+      letter-spacing: 1px;
+    }
+
+    /* Keyframes for Title Neon Flicker */
+    @keyframes title-flicker {
+      0%, 100% {
+        text-shadow: 0 0 4px #00f2fe, 0 0 12px #00f2fe, 0 0 30px #00f2fe;
+        opacity: 1;
+      }
+      45% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0.95;
+        text-shadow: 0 0 2px #00f2fe, 0 0 8px #00f2fe;
+      }
+      55% {
+        opacity: 1;
+      }
+      90% {
+        text-shadow: 0 0 4px #ff007f, 0 0 12px #ff007f, 0 0 30px #ff007f;
+        fill: #fff5fa;
+      }
+    }
+
+    @keyframes subtitle-pulse {
+      0%, 100% {
+        opacity: 0.8;
+        fill: #00f2fe;
+      }
+      50% {
+        opacity: 1;
+        fill: #ff007f;
+      }
+    }
+
+    /* Twinkling Stars */
+    .star {
+      fill: #ffffff;
+      animation: twinkle infinite ease-in-out;
+    }
+    .star-fast { animation-duration: 1.5s; }
+    .star-med { animation-duration: 3s; }
+    .star-slow { animation-duration: 5s; }
+
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.2; }
+      50% { opacity: 1; }
+    }
+
+    /* Floating Astronaut/Developer */
+    .floater {
+      animation: float-animation 6s infinite ease-in-out;
+      transform-origin: center;
+    }
+
+    @keyframes float-animation {
+      0%, 100% {
+        transform: translateY(0px) rotate(0deg);
+      }
+      50% {
+        transform: translateY(-8px) rotate(1.5deg);
+      }
+    }
+
+    /* Grid Scrolling */
+    .grid-h-line {
+      stroke: #ff007f;
+      stroke-width: 1.5;
+      opacity: 0.6;
+      animation: grid-scroll-anim 2.5s infinite linear;
+    }
+
+    @keyframes grid-scroll-anim {
+      0% {
+        transform: translateY(0px);
+      }
+      100% {
+        transform: translateY(25px);
+      }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg-grad)" />
+
+  <!-- Stars -->
+  <g>
+    <!-- Fast twinkling stars -->
+    <circle cx="75" cy="45" r="1.5" class="star star-fast" style="animation-delay: 0.2s;" />
+    <circle cx="210" cy="85" r="1" class="star star-fast" style="animation-delay: 0.8s;" />
+    <circle cx="680" cy="50" r="1.5" class="star star-fast" style="animation-delay: 0.5s;" />
+    <circle cx="580" cy="110" r="1" class="star star-fast" style="animation-delay: 1.2s;" />
+
+    <!-- Medium twinkling stars -->
+    <circle cx="150" cy="30" r="1.2" class="star star-med" style="animation-delay: 0s;" />
+    <circle cx="340" cy="65" r="1.8" class="star star-med" style="animation-delay: 1.5s;" />
+    <circle cx="480" cy="40" r="1.2" class="star star-med" style="animation-delay: 2.1s;" />
+    <circle cx="720" cy="95" r="1.6" class="star star-med" style="animation-delay: 0.7s;" />
+
+    <!-- Slow twinkling stars -->
+    <circle cx="95" cy="115" r="1.5" class="star star-slow" style="animation-delay: 1s;" />
+    <circle cx="270" cy="25" r="1" class="star star-slow" style="animation-delay: 3s;" />
+    <circle cx="620" cy="25" r="2" class="star star-slow" style="animation-delay: 2.5s;" />
+    <circle cx="760" cy="55" r="1.2" class="star star-slow" style="animation-delay: 0.1s;" />
+  </g>
+
+  <!-- Retro Glowing Sun -->
+  <g transform="translate(400, 140)">
+    <!-- Sun Core -->
+    <circle cx="0" cy="0" r="75" fill="url(#sun-grad)" />
+    <!-- Horizontal Slices (to give the classic retro vibe) -->
+    <rect x="-80" y="-55" width="160" height="2" fill="#07050f" opacity="0.3" />
+    <rect x="-80" y="-35" width="160" height="3" fill="#07050f" opacity="0.5" />
+    <rect x="-80" y="-15" width="160" height="4" fill="#07050f" opacity="0.7" />
+    <rect x="-80" y="5" width="160" height="6" fill="#07050f" opacity="0.9" />
+    <rect x="-80" y="25" width="160" height="8" fill="#07050f" />
+    <rect x="-80" y="45" width="160" height="11" fill="#07050f" />
+    <rect x="-80" y="65" width="160" height="15" fill="#07050f" />
+  </g>
+
+  <!-- Synthwave Grid Section -->
+  <g mask="url(#grid-mask)">
+    <!-- Horizon Line -->
+    <line x1="0" y1="140" x2="800" y2="140" stroke="#00f2fe" stroke-width="2" filter="url(#glow-cyan)" />
+
+    <!-- Scrolling Horizontal Lines -->
+    <g>
+      <!-- We generate lines spaced by 25px, animating their vertical translation -->
+      <line x1="0" y1="140" x2="800" y2="140" class="grid-h-line" />
+      <line x1="0" y1="165" x2="800" y2="165" class="grid-h-line" />
+      <line x1="0" y1="190" x2="800" y2="190" class="grid-h-line" />
+      <line x1="0" y1="215" x2="800" y2="215" class="grid-h-line" />
+      <line x1="0" y1="240" x2="800" y2="240" class="grid-h-line" />
+      <line x1="0" y1="265" x2="800" y2="265" class="grid-h-line" />
+      <line x1="0" y1="290" x2="800" y2="290" class="grid-h-line" />
+      <line x1="0" y1="315" x2="800" y2="315" class="grid-h-line" />
+    </g>
+
+    <!-- Perspective Vertical Lines (converge to center horizon 400, 140) -->
+    <g stroke="#00f2fe" stroke-width="1.5" opacity="0.7">
+      <line x1="400" y1="140" x2="400" y2="300" />
+      
+      <line x1="400" y1="140" x2="310" y2="300" />
+      <line x1="400" y1="140" x2="490" y2="300" />
+      
+      <line x1="400" y1="140" x2="220" y2="300" />
+      <line x1="400" y1="140" x2="580" y2="300" />
+      
+      <line x1="400" y1="140" x2="110" y2="300" />
+      <line x1="400" y1="140" x2="690" y2="300" />
+      
+      <line x1="400" y1="140" x2="-20" y2="300" />
+      <line x1="400" y1="140" x2="820" y2="300" />
+
+      <line x1="400" y1="140" x2="-180" y2="300" />
+      <line x1="400" y1="140" x2="980" y2="300" />
+    </g>
+  </g>
+
+  <!-- Left Bobbing Astronaut / Space Graphic -->
+  <g class="floater" transform="translate(60, 40)">
+    <!-- Planet/Moon -->
+    <circle cx="45" cy="45" r="28" fill="#1b1735" stroke="#ff007f" stroke-width="1.5" opacity="0.8" />
+    <circle cx="35" cy="35" r="4" fill="#ff007f" opacity="0.5" />
+    <circle cx="52" cy="50" r="6" fill="#ff007f" opacity="0.3" />
+    <!-- Planet Ring -->
+    <ellipse cx="45" cy="45" rx="40" ry="8" fill="none" stroke="#00f2fe" stroke-width="2.5" transform="rotate(-15, 45, 45)" filter="url(#glow-cyan)" />
+  </g>
+
+  <!-- Right Bobbing Developer Laptop Graphic -->
+  <g class="floater" transform="translate(640, 50)" style="animation-delay: -3s;">
+    <!-- Neon Glowing Coding Rocket / Astronaut -->
+    <!-- Base Rocket Body -->
+    <path d="M40 10 C35 30 35 60 40 70 C45 60 45 30 40 10 Z" fill="#ffffff" filter="url(#glow-cyan)" />
+    <!-- Wings -->
+    <path d="M40 45 L25 65 L40 60 Z" fill="#ff007f" filter="url(#glow-magenta)" />
+    <path d="M40 45 L55 65 L40 60 Z" fill="#ff007f" filter="url(#glow-magenta)" />
+    <!-- Rocket Window -->
+    <circle cx="40" cy="35" r="4" fill="#07050f" />
+    <!-- Flame / Thrust -->
+    <path d="M38 70 L40 85 L42 70 Z" fill="#ffe600" />
+  </g>
+
+  <!-- Centered Heading Texts -->
+  <text x="400" y="85" class="title">ANUPAM RAJ</text>
+  <text x="400" y="118" class="subtitle">&lt; WEB DEVELOPER /&gt;</text>
+  <text x="400" y="134" class="tagline">BUILDING DIGITAL EXPERIENCES WITH CODE &amp; DSA</text>
+</svg>
