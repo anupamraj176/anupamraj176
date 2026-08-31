@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "repo": "SAI",
+      "description": "🌾 FarmerHub - Farm-to-consumer marketplace connecting agricultural producers directly with buyers.",
+      "language": "JavaScript"
+    },
+    {
+      "repo": "my-constellation-bg",
+      "description": "🌌 Realistic Starfield - High-performance animated starfield canvas background released as a published NPM library.",
+      "language": "JavaScript"
+    },
+    {
+      "repo": "GridLayoutGenrator",
+      "description": "🎨 Grid Layout Generator - Interactive drag-and-drop CSS Grid builder and code generation utility.",
+      "language": "JavaScript"
+    }
+  ]
+}
