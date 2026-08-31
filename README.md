@@ -79,9 +79,9 @@ Hi, I'm **Anupam Raj**. I'm a passionate Full-Stack Developer creating scalable,
 
 <!-- Snake eats the contribution graph -->
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anupamraj176/anupamraj176/snake-output/github-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anupamraj176/anupamraj176/snake-output/github-snake.svg">
-<img src="https://raw.githubusercontent.com/anupamraj176/anupamraj176/snake-output/github-snake.svg" width="100%" alt="snake eating the contribution graph">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anupamraj176/anupamraj176/snake-output/snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anupamraj176/anupamraj176/snake-output/snake.svg">
+<img src="https://raw.githubusercontent.com/anupamraj176/anupamraj176/snake-output/snake.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
 
 </div>
