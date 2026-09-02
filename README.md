@@ -13,6 +13,9 @@
 <a href="https://linkedin.com/in/anupam-raj-88833134b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:anupamraj176@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://anupam176-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+<br><br>
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=anupamraj176&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </div>
 
 ---
@@ -35,6 +38,19 @@ Hi, I'm **Anupam Raj**. I'm a passionate Full-Stack Developer creating scalable,
 ## `~/` toolbox
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,vue,angular,tailwind,sass,nodejs,express,fastapi,nestjs,mongodb,postgresql,mysql,firebase,aws,git,github,docker,jenkins,linux,vscode&perline=11" alt="tech stack">
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` activity
+
+<div align="left" style="display: inline-block;">
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</div>
 
 </div>
 
@@ -163,5 +179,35 @@ Hi, I'm **Anupam Raj**. I'm a passionate Full-Stack Developer creating scalable,
 ## Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` play tic-tac-toe
+
+<!-- tictactoe_start -->
+<div align="center">
+<table>
+  <tr>
+    <td width='50' height='50' align='center'><a href='https://github.com/anupamraj176/anupamraj176/issues/new?title=ttt%7C0&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.'>⬜</a></td>
+    <td width='50' height='50' align='center'><a href='https://github.com/anupamraj176/anupamraj176/issues/new?title=ttt%7C1&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.'>⬜</a></td>
+    <td width='50' height='50' align='center'><a href='https://github.com/anupamraj176/anupamraj176/issues/new?title=ttt%7C2&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.'>⬜</a></td>
+  </tr>
+  <tr>
+    <td width='50' height='50' align='center'><a href='https://github.com/anupamraj176/anupamraj176/issues/new?title=ttt%7C3&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.'>⬜</a></td>
+    <td width='50' height='50' align='center'><a href='https://github.com/anupamraj176/anupamraj176/issues/new?title=ttt%7C4&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.'>⬜</a></td>
+    <td width='50' height='50' align='center'><a href='https://github.com/anupamraj176/anupamraj176/issues/new?title=ttt%7C5&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.'>⬜</a></td>
+  </tr>
+  <tr>
+    <td width='50' height='50' align='center'><a href='https://github.com/anupamraj176/anupamraj176/issues/new?title=ttt%7C6&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.'>⬜</a></td>
+    <td width='50' height='50' align='center'><a href='https://github.com/anupamraj176/anupamraj176/issues/new?title=ttt%7C7&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.'>⬜</a></td>
+    <td width='50' height='50' align='center'><a href='https://github.com/anupamraj176/anupamraj176/issues/new?title=ttt%7C8&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.'>⬜</a></td>
+  </tr>
+</table>
+</div>
+<!-- tictactoe_end -->
 
 </div>
