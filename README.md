@@ -150,6 +150,8 @@ Hi, I'm **Anupam Raj**. I'm a passionate Full-Stack Developer creating scalable,
 | **[FarmerHub](https://github.com/anupamraj176/SAI)** | `React` `Node.js` `MongoDB` |
 | **[Realistic Starfield](https://github.com/anupamraj176/my-constellation-bg)** | `JavaScript` `Canvas` `NPM` |
 | **[Grid Layout Generator](https://github.com/anupamraj176/GridLayoutGenrator)** | `React` `Vite` `GSAP` |
+| **[Campus Quiz](YOUR_CAMPUS_QUIZ_REPO_LINK)** | `React` `Node.js` `MongoDB` |
+| **[YouTubeCB](YOUR_YOUTUBE_CB_REPO_LINK)** | `React` `Node.js` `MongoDB` |
 
 </sub>
 </div>
