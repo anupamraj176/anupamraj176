@@ -192,7 +192,7 @@ Hi, I'm **Anupam Raj**. I'm a passionate Full-Stack Developer creating scalable,
 <div align="center">
 <table>
   <tr>
-    <td width='50' height='50' align='center'><a href='https://github.com/anupamraj176/anupamraj176/issues/new?title=ttt%7C0&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.'>⬜</a></td>
+    <td width='50' height='50' align='center'>⭕</td>
     <td width='50' height='50' align='center'><a href='https://github.com/anupamraj176/anupamraj176/issues/new?title=ttt%7C1&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.'>⬜</a></td>
     <td width='50' height='50' align='center'><a href='https://github.com/anupamraj176/anupamraj176/issues/new?title=ttt%7C2&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.'>⬜</a></td>
   </tr>
@@ -203,7 +203,7 @@ Hi, I'm **Anupam Raj**. I'm a passionate Full-Stack Developer creating scalable,
   </tr>
   <tr>
     <td width='50' height='50' align='center'><a href='https://github.com/anupamraj176/anupamraj176/issues/new?title=ttt%7C6&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.'>⬜</a></td>
-    <td width='50' height='50' align='center'><a href='https://github.com/anupamraj176/anupamraj176/issues/new?title=ttt%7C7&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.'>⬜</a></td>
+    <td width='50' height='50' align='center'>❌</td>
     <td width='50' height='50' align='center'><a href='https://github.com/anupamraj176/anupamraj176/issues/new?title=ttt%7C8&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.'>⬜</a></td>
   </tr>
 </table>
