@@ -49,6 +49,8 @@ Hi, I'm **Anupam Raj**. I'm a passionate Full-Stack Developer creating scalable,
 
 <div align="left" style="display: inline-block;">
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#1](https://github.com/anupamraj176/anupamraj176/issues/1) in [anupamraj176/anupamraj176](https://github.com/anupamraj176/anupamraj176)
+2. ❗ Opened issue [#1](https://github.com/anupamraj176/anupamraj176/issues/1) in [anupamraj176/anupamraj176](https://github.com/anupamraj176/anupamraj176)
 <!--END_SECTION:activity-->
 </div>
 
